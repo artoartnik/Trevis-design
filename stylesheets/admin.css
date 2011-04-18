@@ -1,0 +1,40 @@
+.trans-cont {
+  display: none;
+  background: #fff;
+  padding-left: 20px;
+}
+.trans-open-link {
+  font-weight: bold;
+  font-size: 14px;
+  color: #d71149;
+  border-bottom: 1px dotted #6b7b84;
+  height: 20px;
+  cursor: pointer;
+}
+
+.trans-item form, .trans-item input, .trans-item div {
+  display: inline;
+}
+
+.trans-item .key {
+  width: 200px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+#category_list, table {
+  font-size: 9pt;
+  background-color:#fff;
+  width: 663px;
+  border: 0;
+}
+
+#category_list th, table th {
+  background-color:#6b7b84;
+  color: #fff;
+  padding: 2px;
+}
+
+#category_list td, table td {
+  padding: 2px;
+}
