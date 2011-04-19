@@ -38,3 +38,19 @@
 #category_list td, table td {
   padding: 2px;
 }
+
+.field {
+  overflow: hidden;
+  margin-bottom: 10px;  
+}
+
+label{
+  width: 102px;
+  float: left;
+  text-align: left;
+  margin-right: 5px;
+  display: block;
+  font-weight: bold;
+  font-size: 10pt;
+}
+
