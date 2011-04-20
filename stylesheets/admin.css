@@ -58,6 +58,8 @@ label{
   width: 100%;
   text-align: center;
   background: #cf6;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 
 #flash_error{
@@ -66,5 +68,7 @@ label{
   color: #fff;
   text-align: center;
   font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 
