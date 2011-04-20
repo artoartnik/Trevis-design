@@ -54,3 +54,15 @@ label{
   font-size: 10pt;
 }
 
+#flash_notice{
+  width: 100%;
+  background: #cf6;
+}
+
+#flash_error{
+  width: 100%;
+  background: #c30;
+  color: #fff;
+  font-weight: bold;
+}
+
