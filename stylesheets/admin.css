@@ -60,6 +60,9 @@ label{
   background: #cf6;
   padding-top: 3px;
   padding-bottom: 3px;
+  position: absoulte;
+  top: 0;
+  z-index: 10;
 }
 
 #flash_error{
@@ -70,5 +73,8 @@ label{
   font-weight: bold;
   padding-top: 3px;
   padding-bottom: 3px;
+  position: absoulte;
+  top: 0;
+  z-index: 10;
 }
 
