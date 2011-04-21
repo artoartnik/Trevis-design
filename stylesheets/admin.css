@@ -54,27 +54,3 @@ label{
   font-size: 10pt;
 }
 
-#flash_notice{
-  width: 100%;
-  text-align: center;
-  background: #cf6;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  position: absoulte;
-  top: 0;
-  z-index: 10;
-}
-
-#flash_error{
-  width: 100%;
-  background: #c30;
-  color: #fff;
-  text-align: center;
-  font-weight: bold;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  position: absoulte;
-  top: 0;
-  z-index: 10;
-}
-
